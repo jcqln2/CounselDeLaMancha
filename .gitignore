@@ -16,3 +16,19 @@ node_modules
 # Hardhat Ignition default folder for deployments against a local node
 ignition/deployments/chain-31337
 .env
+
+# Ignore frontend/counsel-de-la-mancha dependencies and builds
+/frontend/counsel-de-la-mancha/node_modules
+/frontend/counsel-de-la-mancha/.pnp
+/frontend/counsel-de-la-mancha/.pnp.js
+/frontend/counsel-de-la-mancha/coverage
+/frontend/counsel-de-la-mancha/build
+/frontend/counsel-de-la-mancha/.DS_Store
+/frontend/counsel-de-la-mancha/.env.local
+/frontend/counsel-de-la-mancha/.env.development.local
+/frontend/counsel-de-la-mancha/.env.test.local
+/frontend/counsel-de-la-mancha/.env.production.local
+/frontend/counsel-de-la-mancha/npm-debug.log*
+/frontend/counsel-de-la-mancha/yarn-debug.log*
+/frontend/counsel-de-la-mancha/yarn-error.log*
+
