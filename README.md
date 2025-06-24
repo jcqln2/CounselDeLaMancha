@@ -1,13 +1,6 @@
-# Sample Hardhat Project
+# A fun pet project to celebrate my obsession with the story of Don Quixote
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+* Used hardhat to compile smart contract https://sepolia.etherscan.io/address/0xEc63726129A3C42887D220aC9f7c4fe3349AcCcc#code 
+* deployed sepolia network for testing
+* deployed with netlify : https://cdlm.netlify.app
+* Ask the counsel de la mancha anything ✨ 
